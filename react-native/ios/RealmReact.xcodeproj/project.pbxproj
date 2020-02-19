@@ -376,6 +376,8 @@
 					"$(SRCROOT)/../../../../ios/Pods/Headers/Public/**",
 					"$(SRCROOT)/../../tests/react-test-app/ios/Pods/Headers/Public/React",
 					"$(SRCROOT)/../../examples/ReactExample/node_modules/react-native/React/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/React-Core/**",
+					"$(SRCROOT)/../../react-native/ReactCommon/yoga",
 				);
 				OTHER_LIBTOOLFLAGS = "$(BUILT_PRODUCTS_DIR)/libGCDWebServers.a";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -398,6 +400,8 @@
 					"$(SRCROOT)/../../../../ios/Pods/Headers/Public/**",
 					"$(SRCROOT)/../../tests/react-test-app/ios/Pods/Headers/Public/React",
 					"$(SRCROOT)/../../examples/ReactExample/node_modules/react-native/React/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/React-Core/**",
+					"$(SRCROOT)/../../react-native/ReactCommon/yoga",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
